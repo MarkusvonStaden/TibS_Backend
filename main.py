@@ -77,7 +77,6 @@ async def websocket_endpoint(websocket: WebSocket):
 
 
 # Endpoints to add:
-# - Get latest measurement (Socket)
 # Serve update
 # upload update
 # update limits

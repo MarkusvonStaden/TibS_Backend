@@ -12,7 +12,7 @@ function createChart(id, label1, label2) {
         label: label1,
         data: Array(10).fill(null),
         borderColor: 'rgba(75, 192, 192, 1)',
-        tension: 0.4
+        tension: 0.4,
     }];
 
     if (label2) {
@@ -44,7 +44,8 @@ function createChart(id, label1, label2) {
             },
             elements: {
                 point: {
-                    radius: 0
+                    radius: 0,
+                    hoverRadius: 10
                 }
             },
             interaction: {

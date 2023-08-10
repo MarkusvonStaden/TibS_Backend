@@ -5608,5 +5608,3585 @@
             "white": 2.99904,
             "visible": 2.45376
         }
+    },
+    {
+        "timestamp": 1691681118.818183,
+        "data": {
+            "temperature": 23.371507,
+            "humidity": 42.310288,
+            "pressure": 97021.784229,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681128.9738162,
+        "data": {
+            "temperature": 23.374076,
+            "humidity": 42.225967,
+            "pressure": 97018.124206,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681139.3439791,
+        "data": {
+            "temperature": 23.381783,
+            "humidity": 42.181034,
+            "pressure": 97016.610463,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681149.474741,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 42.304801,
+            "pressure": 97023.638458,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681159.732492,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.34421,
+            "pressure": 97014.010299,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681170.062027,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.085479,
+            "pressure": 97009.320753,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681180.25105,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 41.939337,
+            "pressure": 97021.727685,
+            "white": 2.99904,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681190.4986482,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 41.944989,
+            "pressure": 97019.816872,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681200.732882,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 41.894321,
+            "pressure": 97018.228931,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681211.126583,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 42.006786,
+            "pressure": 97020.933693,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681221.365076,
+        "data": {
+            "temperature": 23.381783,
+            "humidity": 42.169789,
+            "pressure": 97020.66754,
+            "white": 2.99904,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681231.5184052,
+        "data": {
+            "temperature": 23.381783,
+            "humidity": 42.197903,
+            "pressure": 97019.31518,
+            "white": 2.99904,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681241.732725,
+        "data": {
+            "temperature": 23.366368,
+            "humidity": 42.135957,
+            "pressure": 97022.312005,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681252.0870001,
+        "data": {
+            "temperature": 23.374076,
+            "humidity": 42.034795,
+            "pressure": 97020.828892,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681262.229663,
+        "data": {
+            "temperature": 23.376645,
+            "humidity": 41.995449,
+            "pressure": 97021.225894,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681272.5278091,
+        "data": {
+            "temperature": 23.379214,
+            "humidity": 41.978595,
+            "pressure": 97018.918188,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681282.766999,
+        "data": {
+            "temperature": 23.376645,
+            "humidity": 42.287832,
+            "pressure": 97019.873545,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681293.0067441,
+        "data": {
+            "temperature": 23.384353,
+            "humidity": 42.231655,
+            "pressure": 97019.712173,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681303.406931,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.282277,
+            "pressure": 97020.139705,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681313.6373818,
+        "data": {
+            "temperature": 23.376645,
+            "humidity": 42.102284,
+            "pressure": 97017.168849,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681323.976115,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.096724,
+            "pressure": 97020.139705,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681334.242379,
+        "data": {
+            "temperature": 23.384353,
+            "humidity": 42.057347,
+            "pressure": 97018.359809,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681344.482808,
+        "data": {
+            "temperature": 23.363799,
+            "humidity": 42.074092,
+            "pressure": 97024.619639,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681354.746836,
+        "data": {
+            "temperature": 23.368937,
+            "humidity": 42.124727,
+            "pressure": 97021.356684,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681365.141232,
+        "data": {
+            "temperature": 23.379214,
+            "humidity": 42.107922,
+            "pressure": 97017.565835,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681375.237207,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.169822,
+            "pressure": 97018.787334,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681385.4804292,
+        "data": {
+            "temperature": 23.368937,
+            "humidity": 42.225934,
+            "pressure": 97011.890368,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681395.941726,
+        "data": {
+            "temperature": 23.389491,
+            "humidity": 42.214821,
+            "pressure": 97019.184323,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681406.402682,
+        "data": {
+            "temperature": 23.389491,
+            "humidity": 42.192329,
+            "pressure": 97016.479572,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681416.6420841,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 42.299211,
+            "pressure": 97017.670508,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681426.742125,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.349832,
+            "pressure": 97018.067488,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681436.994306,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 42.299211,
+            "pressure": 97014.965726,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681447.3609002,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.113671,
+            "pressure": 97011.305508,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681457.5006878,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 42.051864,
+            "pressure": 97017.936555,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681467.751691,
+        "data": {
+            "temperature": 23.415183,
+            "humidity": 41.973181,
+            "pressure": 97013.717771,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681477.9953868,
+        "data": {
+            "temperature": 23.412614,
+            "humidity": 41.961919,
+            "pressure": 97018.73051,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681488.2582788,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 41.956236,
+            "pressure": 97015.759664,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681498.507466,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.096817,
+            "pressure": 97021.169275,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681508.750558,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 42.113719,
+            "pressure": 97015.231729,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681519.012224,
+        "data": {
+            "temperature": 23.394629,
+            "humidity": 42.181116,
+            "pressure": 97014.568758,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681529.246506,
+        "data": {
+            "temperature": 23.389491,
+            "humidity": 42.164215,
+            "pressure": 97017.831947,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681539.6258502,
+        "data": {
+            "temperature": 23.394629,
+            "humidity": 42.282326,
+            "pressure": 97018.625915,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681549.741919,
+        "data": {
+            "temperature": 23.394629,
+            "humidity": 42.119263,
+            "pressure": 97019.978302,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681560.001804,
+        "data": {
+            "temperature": 23.394629,
+            "humidity": 42.181116,
+            "pressure": 97018.625915,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681570.344618,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 42.096786,
+            "pressure": 97017.670508,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681580.4965398,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 42.091132,
+            "pressure": 97018.228931,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681590.785522,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 42.040525,
+            "pressure": 97020.933693,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681601.023442,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.018002,
+            "pressure": 97021.492076,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681611.271592,
+        "data": {
+            "temperature": 23.384353,
+            "humidity": 42.001117,
+            "pressure": 97021.064538,
+            "white": 2.99904,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681621.491953,
+        "data": {
+            "temperature": 23.371507,
+            "humidity": 42.017911,
+            "pressure": 97019.079553,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681631.757993,
+        "data": {
+            "temperature": 23.39206,
+            "humidity": 42.029279,
+            "pressure": 97023.638458,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681642.238858,
+        "data": {
+            "temperature": 23.381783,
+            "humidity": 42.158543,
+            "pressure": 97013.905747,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681652.5488791,
+        "data": {
+            "temperature": 23.371507,
+            "humidity": 42.186593,
+            "pressure": 97020.431891,
+            "white": 2.99904,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681662.784527,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.192313,
+            "pressure": 97022.844447,
+            "white": 2.7264,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681673.0089338,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.310473,
+            "pressure": 97019.419885,
+            "white": 2.7264,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681683.403522,
+        "data": {
+            "temperature": 23.404906,
+            "humidity": 42.164311,
+            "pressure": 97024.301625,
+            "white": 2.7264,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681693.5249732,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 41.97876,
+            "pressure": 97016.584142,
+            "white": 2.7264,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681703.778826,
+        "data": {
+            "temperature": 23.433167,
+            "humidity": 41.967662,
+            "pressure": 97019.231954,
+            "white": 2.7264,
+            "visible": 2.45376
+        }
+    },
+    {
+        "timestamp": 1691681714.120495,
+        "data": {
+            "temperature": 23.433167,
+            "humidity": 42.164487,
+            "pressure": 97019.231954,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681724.363453,
+        "data": {
+            "temperature": 23.435737,
+            "humidity": 42.046408,
+            "pressure": 97026.391303,
+            "white": 2.7264,
+            "visible": 2.18112
+        }
+    },
+    {
+        "timestamp": 1691681734.550787,
+        "data": {
+            "temperature": 23.430598,
+            "humidity": 42.327546,
+            "pressure": 97017.482519,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681744.7479198,
+        "data": {
+            "temperature": 23.438306,
+            "humidity": 42.974206,
+            "pressure": 97017.351476,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691681755.034181,
+        "data": {
+            "temperature": 24.024084,
+            "humidity": 66.99932,
+            "pressure": 97035.842352,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681765.2764559,
+        "data": {
+            "temperature": 23.718348,
+            "humidity": 44.697468,
+            "pressure": 97019.167243,
+            "white": 0.81792,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691681775.495695,
+        "data": {
+            "temperature": 23.923885,
+            "humidity": 63.565672,
+            "pressure": 97035.072805,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681785.760109,
+        "data": {
+            "temperature": 23.800563,
+            "humidity": 45.305761,
+            "pressure": 97022.546987,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681796.0055308,
+        "data": {
+            "temperature": 23.731194,
+            "humidity": 43.032804,
+            "pressure": 97021.182085,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681806.240007,
+        "data": {
+            "temperature": 23.687518,
+            "humidity": 42.588032,
+            "pressure": 97022.492497,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681816.6172118,
+        "data": {
+            "temperature": 23.646411,
+            "humidity": 42.52586,
+            "pressure": 97021.4625,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681826.8657641,
+        "data": {
+            "temperature": 23.610442,
+            "humidity": 42.024942,
+            "pressure": 97019.903464,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681837.001471,
+        "data": {
+            "temperature": 23.592458,
+            "humidity": 42.114847,
+            "pressure": 97026.564274,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681847.265547,
+        "data": {
+            "temperature": 23.559058,
+            "humidity": 42.103394,
+            "pressure": 97018.637561,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681857.511497,
+        "data": {
+            "temperature": 23.535935,
+            "humidity": 42.210123,
+            "pressure": 97021.767674,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681867.784574,
+        "data": {
+            "temperature": 23.497397,
+            "humidity": 42.30549,
+            "pressure": 97022.515569,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681878.00418,
+        "data": {
+            "temperature": 23.466567,
+            "humidity": 41.962231,
+            "pressure": 97023.101179,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681888.3986392,
+        "data": {
+            "temperature": 23.45629,
+            "humidity": 42.085899,
+            "pressure": 97017.455728,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681898.514079,
+        "data": {
+            "temperature": 23.443444,
+            "humidity": 41.799001,
+            "pressure": 97018.145402,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681908.899549,
+        "data": {
+            "temperature": 23.42546,
+            "humidity": 41.961994,
+            "pressure": 97022.098399,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681919.126872,
+        "data": {
+            "temperature": 23.404906,
+            "humidity": 42.096834,
+            "pressure": 97018.891987,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681929.366708,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.141802,
+            "pressure": 97023.874083,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681939.518831,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.040585,
+            "pressure": 97023.874083,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681949.7812061,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.153048,
+            "pressure": 97023.874083,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681960.0518148,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 42.09685,
+            "pressure": 97020.641384,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681970.435452,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 41.990007,
+            "pressure": 97024.698629,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691681980.521467,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 41.944975,
+            "pressure": 97023.47708,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691681990.759083,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 41.967453,
+            "pressure": 97021.727685,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682001.002912,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 41.883117,
+            "pressure": 97022.124681,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682011.252713,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 41.855,
+            "pressure": 97026.181879,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682021.635654,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.001208,
+            "pressure": 97022.124681,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682031.870446,
+        "data": {
+            "temperature": 23.399768,
+            "humidity": 42.102425,
+            "pressure": 97022.124681,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691682042.1034229,
+        "data": {
+            "temperature": 23.404906,
+            "humidity": 42.192427,
+            "pressure": 97029.711271,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682052.343966,
+        "data": {
+            "temperature": 23.394629,
+            "humidity": 42.304817,
+            "pressure": 97022.683076,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682062.550845,
+        "data": {
+            "temperature": 23.389491,
+            "humidity": 42.332897,
+            "pressure": 97025.946207,
+            "white": 1.63584,
+            "visible": 1.63584
+        }
+    },
+    {
+        "timestamp": 1691682072.780863,
+        "data": {
+            "temperature": 23.386922,
+            "humidity": 42.299145,
+            "pressure": 97026.901564,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682083.022082,
+        "data": {
+            "temperature": 23.381783,
+            "humidity": 42.377825,
+            "pressure": 97030.134068,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682093.405652,
+        "data": {
+            "temperature": 23.374076,
+            "humidity": 42.158496,
+            "pressure": 97023.53358,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682103.504701,
+        "data": {
+            "temperature": 23.384353,
+            "humidity": 42.293504,
+            "pressure": 97026.474003,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682113.8855731,
+        "data": {
+            "temperature": 23.384353,
+            "humidity": 42.321617,
+            "pressure": 97022.416904,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682124.1329,
+        "data": {
+            "temperature": 23.389491,
+            "humidity": 42.091117,
+            "pressure": 97020.536699,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682134.3653052,
+        "data": {
+            "temperature": 23.404906,
+            "humidity": 42.063095,
+            "pressure": 97024.301625,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682144.500391,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.079948,
+            "pressure": 97026.578893,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682154.765619,
+        "data": {
+            "temperature": 23.404906,
+            "humidity": 42.074341,
+            "pressure": 97022.949215,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682165.086266,
+        "data": {
+            "temperature": 23.402337,
+            "humidity": 42.040585,
+            "pressure": 97019.816872,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682175.324671,
+        "data": {
+            "temperature": 23.407475,
+            "humidity": 42.175574,
+            "pressure": 97026.051046,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682185.500554,
+        "data": {
+            "temperature": 23.422891,
+            "humidity": 42.113814,
+            "pressure": 97025.758758,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682195.751907,
+        "data": {
+            "temperature": 23.422891,
+            "humidity": 42.018215,
+            "pressure": 97023.05386,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682206.261318,
+        "data": {
+            "temperature": 23.428029,
+            "humidity": 42.220688,
+            "pressure": 97027.905225,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682216.48931,
+        "data": {
+            "temperature": 23.420321,
+            "humidity": 42.164408,
+            "pressure": 97021.304426,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682226.761052,
+        "data": {
+            "temperature": 23.420321,
+            "humidity": 42.113798,
+            "pressure": 97021.304426,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682241.935467,
+        "data": {
+            "temperature": 23.420321,
+            "humidity": 42.096928,
+            "pressure": 97021.304426,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682253.708266,
+        "data": {
+            "temperature": 23.458859,
+            "humidity": 42.001555,
+            "pressure": 97019.205208,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682264.113725,
+        "data": {
+            "temperature": 23.543643,
+            "humidity": 41.838919,
+            "pressure": 97024.341746,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682274.242381,
+        "data": {
+            "temperature": 23.630996,
+            "humidity": 41.704357,
+            "pressure": 97024.462157,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682284.699402,
+        "data": {
+            "temperature": 23.718348,
+            "humidity": 41.462799,
+            "pressure": 97023.226477,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682294.989745,
+        "data": {
+            "temperature": 23.782578,
+            "humidity": 41.254811,
+            "pressure": 97018.385362,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682305.375283,
+        "data": {
+            "temperature": 23.828824,
+            "humidity": 41.114248,
+            "pressure": 97018.853468,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682315.501359,
+        "data": {
+            "temperature": 23.833963,
+            "humidity": 41.125527,
+            "pressure": 97022.353751,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682325.961815,
+        "data": {
+            "temperature": 23.839101,
+            "humidity": 40.900329,
+            "pressure": 97019.117929,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682336.404926,
+        "data": {
+            "temperature": 23.833963,
+            "humidity": 40.9904,
+            "pressure": 97026.413728,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682346.646522,
+        "data": {
+            "temperature": 23.815978,
+            "humidity": 41.057899,
+            "pressure": 97016.838867,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682356.885343,
+        "data": {
+            "temperature": 23.815978,
+            "humidity": 41.012859,
+            "pressure": 97018.192152,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682366.9881852,
+        "data": {
+            "temperature": 23.800563,
+            "humidity": 40.973395,
+            "pressure": 97021.193734,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682377.251164,
+        "data": {
+            "temperature": 23.792855,
+            "humidity": 41.035297,
+            "pressure": 97020.003224,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682387.600488,
+        "data": {
+            "temperature": 23.782578,
+            "humidity": 41.130964,
+            "pressure": 97019.738576,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682397.840228,
+        "data": {
+            "temperature": 23.764594,
+            "humidity": 41.114008,
+            "pressure": 97015.577022,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682408.04094,
+        "data": {
+            "temperature": 23.74661,
+            "humidity": 41.097053,
+            "pressure": 97015.474985,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682418.277767,
+        "data": {
+            "temperature": 23.738902,
+            "humidity": 41.187088,
+            "pressure": 97014.284483,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682428.519069,
+        "data": {
+            "temperature": 23.710641,
+            "humidity": 41.186977,
+            "pressure": 97017.976663,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682438.779223,
+        "data": {
+            "temperature": 23.690087,
+            "humidity": 41.265692,
+            "pressure": 97016.124298,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682448.997729,
+        "data": {
+            "temperature": 23.659257,
+            "humidity": 41.406256,
+            "pressure": 97014.006874,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682459.250157,
+        "data": {
+            "temperature": 23.638703,
+            "humidity": 41.541216,
+            "pressure": 97013.507274,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682469.496864,
+        "data": {
+            "temperature": 23.610442,
+            "humidity": 41.670493,
+            "pressure": 97021.256311,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682479.73685,
+        "data": {
+            "temperature": 23.597596,
+            "humidity": 41.754821,
+            "pressure": 97015.182773,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682490.0020301,
+        "data": {
+            "temperature": 23.579612,
+            "humidity": 41.946004,
+            "pressure": 97016.432356,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682500.239691,
+        "data": {
+            "temperature": 23.579612,
+            "humidity": 41.974132,
+            "pressure": 97015.079576,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682510.588464,
+        "data": {
+            "temperature": 23.569335,
+            "humidity": 42.035952,
+            "pressure": 97017.519732,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682520.787649,
+        "data": {
+            "temperature": 23.559058,
+            "humidity": 42.064018,
+            "pressure": 97015.932088,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682530.996285,
+        "data": {
+            "temperature": 23.548781,
+            "humidity": 42.18208,
+            "pressure": 97012.961209,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682541.2717922,
+        "data": {
+            "temperature": 23.530797,
+            "humidity": 42.226965,
+            "pressure": 97015.563083,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682551.647789,
+        "data": {
+            "temperature": 23.507674,
+            "humidity": 42.204321,
+            "pressure": 97011.960305,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682561.7425852,
+        "data": {
+            "temperature": 23.48712,
+            "humidity": 42.316671,
+            "pressure": 97014.164813,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682571.9873312,
+        "data": {
+            "temperature": 23.458859,
+            "humidity": 42.383967,
+            "pressure": 97011.090074,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682582.2488708,
+        "data": {
+            "temperature": 23.430598,
+            "humidity": 42.355661,
+            "pressure": 97008.015291,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682592.5084422,
+        "data": {
+            "temperature": 23.42546,
+            "humidity": 42.310643,
+            "pressure": 97009.926336,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682602.751991,
+        "data": {
+            "temperature": 23.430598,
+            "humidity": 42.333169,
+            "pressure": 97010.720211,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682612.987382,
+        "data": {
+            "temperature": 23.428029,
+            "humidity": 42.248805,
+            "pressure": 97011.675728,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682623.2845361,
+        "data": {
+            "temperature": 23.415183,
+            "humidity": 42.259968,
+            "pressure": 97008.30806,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682633.4999309,
+        "data": {
+            "temperature": 23.412614,
+            "humidity": 42.11375,
+            "pressure": 97010.615969,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682643.747088,
+        "data": {
+            "temperature": 23.397199,
+            "humidity": 42.051801,
+            "pressure": 97008.203778,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682676.334136,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682741.503995,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682806.6967869,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682872.0777411,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691682937.255429,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.63584,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683002.5302348,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683065.498911,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683130.9474041,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683196.151953,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683261.4514098,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683326.7972102,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683392.126455,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683461.78436,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683527.036088,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683592.2481868,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683655.1881468,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683720.453517,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.3632
+        }
+    },
+    {
+        "timestamp": 1691683785.811701,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691683851.1251998,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691683916.456219,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.3632,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691683981.833014,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684048.482363,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684115.0873442,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684180.3335009,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684243.277838,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684310.009703,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684376.781101,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684441.930022,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684508.6378062,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684573.829234,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684639.115114,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684704.3898308,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684769.8265998,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684832.741744,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684898.0154822,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691684964.640689,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685029.881836,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685095.528689,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685160.8051012,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685226.737262,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685292.1662772,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685357.627425,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685421.888042,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685488.460995,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685553.867935,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685619.36404,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685684.6857758,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685750.014878,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685815.3041742,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685882.0471811,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691685947.1416829,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686015.813285,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686080.121501,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686145.434918,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686210.808552,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686276.234081,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 1.09056,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686341.6377459,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686406.7739232,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686472.225739,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686537.631168,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686602.771717,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686665.666771,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686732.3527648,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686797.854694,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686863.191534,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686928.4374259,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691686993.754476,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687060.3878531,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687125.8592231,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687191.2068522,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687254.103942,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687319.358836,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687386.019896,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687451.230556,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 1.09056
+        }
+    },
+    {
+        "timestamp": 1691687516.683844,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687581.85752,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687651.0140579,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687716.393127,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687781.695014,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687844.5770319,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687911.231275,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691687976.5687191,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688041.751729,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688107.279478,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.81792,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688178.4790971,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688242.805485,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688308.106526,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688373.3997388,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688436.355146,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688501.575511,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688567.111203,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688636.026932,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688701.290716,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688766.696037,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688833.2828732,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688898.689897,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691688965.980567,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689030.273288,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689095.54175,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689160.954008,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689226.648045,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689292.158462,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689357.561037,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.81792
+        }
+    },
+    {
+        "timestamp": 1691689424.12434,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689489.8451571,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689556.4887118,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689619.363947,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689684.6629791,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.54528,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689751.284458,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689816.493454,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689881.909316,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691689948.5163589,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690015.066258,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690080.333044,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690145.681986,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690210.996576,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690277.7124212,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690344.241708,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690409.579972,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690474.831903,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690540.147239,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690606.504239,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690672.162543,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690737.455355,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690803.246197,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690866.2585301,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.54528
+        }
+    },
+    {
+        "timestamp": 1691690931.7849889,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691690997.279299,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691062.9974132,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691128.303871,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691193.771858,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691258.9041731,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691324.2319229,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691389.664292,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691452.5237231,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691517.863179,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691583.172367,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691651.346844,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691716.5694022,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691783.2840478,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691852.807644,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691918.337901,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691691983.609081,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691692046.57342,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691692111.8561852,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691692177.300189,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691692243.9137971,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692309.134727,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692374.471622,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692439.806043,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692505.094592,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692570.4513931,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692633.4221,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692698.690439,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692765.4269052,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692830.568962,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692897.009554,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691692962.3237782,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693027.637035,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693092.997675,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693158.3004642,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693221.291123,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693286.5810869,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693353.318815,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693418.808665,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693484.1907961,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693549.4463549,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693614.731869,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693684.4649768,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693749.605802,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693812.5218701,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693877.872854,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691693943.108597,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694009.719697,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694074.9863412,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694140.283391,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694205.630348,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694270.904738,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694336.195123,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694401.497149,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694464.476937,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694529.771355,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694595.112779,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694660.473325,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694725.763082,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694791.089283,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694856.530967,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694926.245565,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691694991.3691468,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695054.2744472,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695189.730407,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695255.219775,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695320.389697,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695455.8885272,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695521.2231581,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.0,
+            "visible": 0.0
+        }
+    },
+    {
+        "timestamp": 1691695586.46833,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691695719.5042071,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691695786.0508559,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691695851.2769978,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691695916.559598,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691695981.989113,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696047.4080288,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696112.679326,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696178.013555,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696242.19385,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696308.666003,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696374.042984,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696443.570884,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
+    },
+    {
+        "timestamp": 1691696508.7688372,
+        "data": {
+            "temperature": 22.816563,
+            "humidity": 72.038538,
+            "pressure": 65263.879766,
+            "white": 0.27264,
+            "visible": 0.27264
+        }
     }
 ]
