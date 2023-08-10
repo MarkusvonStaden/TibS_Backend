@@ -56,6 +56,21 @@ h1 span {
   border-radius: 25px;
 }
 
+@media (min-width: 1920px) {
+  /* 2 Spalten * min-width 750px */
+  .chart-container .chart {
+    margin: 0;
+  }
+
+  .chart-container .chart:nth-child(odd) {
+    margin-left: auto;
+  }
+
+  .chart-container .chart:nth-child(even) {
+    margin-right: auto;
+  }
+}
+
 .chart-container .chart input {
   margin: 20px auto;
   padding: 10px 20px;
