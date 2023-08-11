@@ -22,6 +22,7 @@ h1 span {
 
 .container {
   width: 100%;
+  max-width: 2000px;
   margin: 0 auto;
   padding: 20px;
   background: #fff;
@@ -74,8 +75,15 @@ h1 span {
 .chart-container .chart input {
   margin: 20px auto;
   padding: 10px 20px;
-  cursor: pointer;
   font-size: 16px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+}
+
+.chart-container .chart input:focus {
+  outline: none;
+  border-bottom: 3px solid #559d65;
+  padding-bottom: 8px;
 }
 
 .chart-container {
