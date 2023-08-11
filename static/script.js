@@ -52,10 +52,6 @@ function createChart(id, label1, label2) {
                 mode: 'nearest',
                 intersect: false,
             },
-            animation: {
-                duration: 500,
-                easing: 'linear',
-            },
         }
     });
 }
