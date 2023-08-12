@@ -11,24 +11,34 @@
         <h1> <span>🪴</span> Plant Dashboard</h1>
         <div class="chart-container">
             <div class="chart">
+                <canvas id="moistureChart"></canvas>
+                <input type="text" placeholder="MIN" class="input" name="moistureLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="moistureLimitMax">
+            </div>
+            <div class="chart">
                 <canvas id="temperatureChart"></canvas>
-                <input type="text" placeholder="MIN">
-                <input type="text" placeholder="MAX">
+                <input type="text" placeholder="MIN" class="input" name="temperatureLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="temperatureLimitMax">
             </div>
             <div class="chart">
                 <canvas id="airPressureChart"></canvas>
-                <input type="text" placeholder="MIN">
-                <input type="text" placeholder="MAX">
+                <input type="text" placeholder="MIN" class="input" name="pressureLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="pressureLimitMax">
             </div>
             <div class="chart">
                 <canvas id="humidityChart"></canvas>
-                <input type="text" placeholder="MIN">
-                <input type="text" placeholder="MAX">
+                <input type="text" placeholder="MIN" class="input" name="humidityLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="humidityLimitMax">
             </div>
             <div class="chart">
-                <canvas id="lightChart"></canvas>
-                <input type="text" placeholder="MIN">
-                <input type="text" placeholder="MAX">
+                <canvas id="whiteChart"></canvas>
+                <input type="text" placeholder="MIN" class="input" name="whiteLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="whiteLimitMax">
+            </div>
+            <div class="chart">
+                <canvas id="visibleChart"></canvas>
+                <input type="text" placeholder="MIN" class="input" name="visibleLimitMin">
+                <input type="text" placeholder="MAX" class="input" name="visibleLimitMax">
             </div>
         </div>
     </div>
