@@ -1,28 +1,25 @@
+// Grab all inputs
+let inputs = document.querySelectorAll('input');
+
+var moistureChart = createChart('moistureChart', 'Feuchtigkeit (%)');
 var temperatureChart = createChart('temperatureChart', 'Temperatur (°C)');
 var humidityChart = createChart('humidityChart', 'Luftfeuchtigkeit (%)');
 var pressureChart = createChart('airPressureChart', 'Luftdruck (Pa)');
-var lightChart = createChart('lightChart', 'Weißes Licht', 'Sichtbares Licht');
+var whiteChart = createChart('whiteChart', 'Weißes Licht (Lux)');
+var visibleChart = createChart('visibleChart', 'Sichtbares Licht (Lux)');
 
 var NUMBER_OF_MEASUREMENTS = 48;
+var timer = null;
 
 var ws = new WebSocket("ws://127.0.0.1/ws");
 
-function createChart(id, label1, label2) {
+function createChart(id, label1) {
     var datasets = [{
         label: label1,
         data: Array(10).fill(null),
         borderColor: 'rgba(75, 192, 192, 1)',
         tension: 0.4,
     }];
-
-    if (label2) {
-        datasets.push({
-            label: label2,
-            data: Array(10).fill(null),
-            borderColor: 'rgba(255, 99, 132, 1)',
-            tension: 0.4
-        });
-    }
 
     var ctx = document.getElementById(id).getContext('2d');
     return new Chart(ctx, {
@@ -62,85 +59,100 @@ function refreshData() {
         .then(data => {
             console.log(data);
             data.forEach(measurement => {
+                moistureChart.data.datasets[0].data.push(measurement.data.moisture);
                 temperatureChart.data.datasets[0].data.push(measurement.data.temperature);
                 humidityChart.data.datasets[0].data.push(measurement.data.humidity);
                 pressureChart.data.datasets[0].data.push(measurement.data.pressure);
-                lightChart.data.datasets[0].data.push(measurement.data.white);
-                lightChart.data.datasets[1].data.push(measurement.data.visible);
+                whiteChart.data.datasets[0].data.push(measurement.data.white);
+                visibleChart.data.datasets[0].data.push(measurement.data.visible);
 
+                moistureChart.data.labels.push('');
                 temperatureChart.data.labels.push('');
                 humidityChart.data.labels.push('');
                 pressureChart.data.labels.push('');
-                lightChart.data.labels.push('');
+                whiteChart.data.labels.push('');
+                visibleChart.data.labels.push('');
 
-                if (temperatureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
+                if (moistureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
+                    moistureChart.data.datasets[0].data.shift();
+                    moistureChart.data.labels.shift();
                     temperatureChart.data.datasets[0].data.shift();
                     temperatureChart.data.labels.shift();
-                }
-                if (humidityChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
                     humidityChart.data.datasets[0].data.shift();
                     humidityChart.data.labels.shift();
-                }
-                if (pressureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
                     pressureChart.data.datasets[0].data.shift();
                     pressureChart.data.labels.shift();
-                }
-                if (lightChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
-                    lightChart.data.datasets[0].data.shift();
-                }
-                if (lightChart.data.datasets[1].data.length > NUMBER_OF_MEASUREMENTS) {
-                    lightChart.data.datasets[1].data.shift();
-                    lightChart.data.labels.shift();
+                    whiteChart.data.datasets[0].data.shift();
+                    whiteChart.data.labels.shift();
+                    visibleChart.data.datasets[0].data.shift();
+                    visibleChart.data.labels.shift();
                 }
             });
 
+            moistureChart.update();
             temperatureChart.update();
             humidityChart.update();
             pressureChart.update();
-            lightChart.update();
+            whiteChart.update();
+            visibleChart.update();
         });
 }
+
+function inputHandler(event) {
+    clearTimeout(timer);
+    if (event.target.value != "") {
+        timer = setTimeout(() => {
+            ws.send(JSON.stringify({
+                'value': Number(event.target.value),
+                'name': event.target.name
+            }
+            ));
+        }, 1000);
+    }
+}
+
+inputs.forEach(input => {
+    input.addEventListener('input', inputHandler);
+});
 
 refreshData();
 
 ws.onmessage = function (event) {
     data = JSON.parse(event.data).data;
-    console.log(data);
     // Add new data to charts
+    moistureChart.data.datasets[0].data.push(data.moisture);
     temperatureChart.data.datasets[0].data.push(data.temperature);
     humidityChart.data.datasets[0].data.push(data.humidity);
     pressureChart.data.datasets[0].data.push(data.pressure);
-    lightChart.data.datasets[0].data.push(data.white);
-    lightChart.data.datasets[1].data.push(data.visible);
+    whiteChart.data.datasets[0].data.push(data.white);
+    visibleChart.data.datasets[0].data.push(data.visible);
 
+    moistureChart.data.labels.push('');
     temperatureChart.data.labels.push('');
     humidityChart.data.labels.push('');
     pressureChart.data.labels.push('');
-    lightChart.data.labels.push('');
+    whiteChart.data.labels.push('');
+    visibleChart.data.labels.push('');
 
-    if (temperatureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
+    if (moistureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
+        moistureChart.data.datasets[0].data.shift();
+        moistureChart.data.labels.shift();
         temperatureChart.data.datasets[0].data.shift();
         temperatureChart.data.labels.shift();
-    }
-    if (humidityChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
         humidityChart.data.datasets[0].data.shift();
         humidityChart.data.labels.shift();
-    }
-    if (pressureChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
         pressureChart.data.datasets[0].data.shift();
         pressureChart.data.labels.shift();
-    }
-    if (lightChart.data.datasets[0].data.length > NUMBER_OF_MEASUREMENTS) {
-        lightChart.data.datasets[0].data.shift();
-    }
-    if (lightChart.data.datasets[1].data.length > NUMBER_OF_MEASUREMENTS) {
-        lightChart.data.datasets[1].data.shift();
-        lightChart.data.labels.shift();
+        whiteChart.data.datasets[0].data.shift();
+        whiteChart.data.labels.shift();
+        visibleChart.data.datasets[0].data.shift();
+        visibleChart.data.labels.shift();
     }
 
+    moistureChart.update();
     temperatureChart.update();
     humidityChart.update();
     pressureChart.update();
-    lightChart.update();
+    whiteChart.update();
+    visibleChart.update();
 };
-
