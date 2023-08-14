@@ -54,7 +54,7 @@ async def post_measurements(measurement: Measurement) -> Response:
     with open("data.json", "r+") as f:
         data = json.load(f)
         data["history"].append(post_data)
-        data["history"] = data["history"][-5000:]
+        data["history"] = data["history"][-50000:]
         print(len(data["history"]))
         f.seek(0)
         json.dump(data, f, indent=4)
@@ -62,12 +62,13 @@ async def post_measurements(measurement: Measurement) -> Response:
 
     await manager.broadcast(json.dumps(post_data))
                 
-    return Response(updateAvailable=True, limits=limits)
+    return Response(updateAvailable=False, limits=limits)
 
 @app.get("/api/measurements")
 async def get_measurements():
     with open("data.json", "r") as f:
         history = json.load(f).get("history", [])
+        history = history[::360]
     # return last 24 measurements
     return history[-48:]
 
