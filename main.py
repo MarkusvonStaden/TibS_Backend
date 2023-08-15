@@ -1,5 +1,6 @@
-from fastapi import FastAPI, WebSocket
+from fastapi import FastAPI, WebSocket, File, UploadFile, Form, status, Request
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, RedirectResponse
 from pydantic import BaseModel
 import json
 import time
@@ -47,12 +48,15 @@ class ConnectionManager:
 
 
 @app.post("/api/measurements")
-async def post_measurements(measurement: Measurement) -> Response:
+async def post_measurements(measurement: Measurement, request: Request) -> Response:
     post_data = measurement.model_dump()
     post_data = {"timestamp": time.time(), "data": post_data}
+    current_version = request.headers.get("Version")
+    newest_version = ""
 
     with open("data.json", "r+") as f:
         data = json.load(f)
+        newest_version = data["config"]["newest_firmware"]
         data["history"].append(post_data)
         data["history"] = data["history"][-50000:]
         print(len(data["history"]))
@@ -62,7 +66,7 @@ async def post_measurements(measurement: Measurement) -> Response:
 
     await manager.broadcast(json.dumps(post_data))
                 
-    return Response(updateAvailable=False, limits=limits)
+    return Response(updateAvailable=(current_version != newest_version), limits=limits)
 
 @app.get("/api/measurements")
 async def get_measurements():
@@ -91,6 +95,29 @@ async def websocket_endpoint(websocket: WebSocket):
         print(e)
         manager.disconnect(websocket)
 
+@app.get("/api/firmwareupdate")
+async def firmwareupdate():
+    newest_version = ""
+    with open("data.json", "r") as f:
+        data = json.load(f)
+        newest_version = data["config"]["newest_firmware"]
+    
+    return FileResponse(f"firmware/{newest_version}.bin")
+
+@app.post("/upload_firmware/")
+async def upload_firmware(file: UploadFile = File(...), version: str = Form(...)):
+    with open(f"firmware/{version}.bin", "wb") as buffer:
+        buffer.write(file.file.read())
+
+    with open("data.json", "r+") as f:
+        data = json.load(f)
+        data["config"]["newest_firmware"] = version
+        f.seek(0)
+        json.dump(data, f, indent=4)
+        f.truncate()
+    return RedirectResponse("/", status_code=status.HTTP_303_SEE_OTHER)
+
+
 def update_limits(input):
     print(input)
     minmax = 0 if 'Min' in input['name'] else 1
@@ -109,10 +136,6 @@ def update_limits(input):
     else:
         print("Error: unknown limit")
 
-# Endpoints to add:
-# Serve update
-# upload update
-# get limits
 
 def get_limits() -> Limits:
     with open("data.json", "r") as f:
