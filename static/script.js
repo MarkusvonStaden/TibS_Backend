@@ -11,7 +11,9 @@ var visibleChart = createChart('visibleChart', 'Sichtbares Licht (Lux)');
 var NUMBER_OF_MEASUREMENTS = 48;
 var timer = null;
 
-var ws = new WebSocket("ws://127.0.0.1/ws");
+var HOSTNAME = "e795af42-f489-4f54-8ff6-ade24852e1da.ul.bw-cloud-instance.org"
+
+var ws = new WebSocket("ws://" + HOSTNAME + "/ws");
 
 function createChart(id, label1) {
     var datasets = [{
@@ -54,7 +56,7 @@ function createChart(id, label1) {
 }
 
 function refreshData() {
-    fetch('http://127.0.0.1/api/measurements')
+    fetch("http://" + HOSTNAME + "/api/measurements")
         .then(response => response.json())
         .then(data => {
             console.log(data);
