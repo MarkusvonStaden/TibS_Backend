@@ -7,8 +7,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 # Constants
-HISTORY_SIZE = 50000
-HISTORY_STEP = 360
+HISTORY_SIZE = 5000
 LAST_24_MEASUREMENTS = 48
 DATA_FILE = "data.json"
 CONFIG_KEY = "config"
@@ -86,7 +85,6 @@ async def post_measurements(measurement: Measurement, request: Request) -> Respo
 async def get_measurements():
     with open(DATA_FILE, "r") as f:
         history = json.load(f).get("history", [])
-        history = history[::HISTORY_STEP]
     return history[-LAST_24_MEASUREMENTS:]
 
 
@@ -111,7 +109,7 @@ async def websocket_endpoint(websocket: WebSocket):
 @app.get("/api/firmwareupdate")
 async def firmwareupdate():
     with open(DATA_FILE, "r") as f:
-        newest_version = json.load(f).get(NEWEST_FIRMWARE_KEY)
+        newest_version = json.load(f)[CONFIG_KEY][NEWEST_FIRMWARE_KEY]
     return FileResponse(f"{FIRMWARE_FOLDER}/{newest_version}.bin")
 
 
@@ -122,12 +120,16 @@ async def upload_firmware(file: UploadFile = File(...), version: str = Form(...)
 
     with open(DATA_FILE, "r+") as f:
         data = json.load(f)
-        data[NEWEST_FIRMWARE_KEY] = version
+        data[CONFIG_KEY][NEWEST_FIRMWARE_KEY] = version
         f.seek(0)
         json.dump(data, f, indent=4)
         f.truncate()
 
     return RedirectResponse("/", status_code=status.HTTP_303_SEE_OTHER)
+
+@app.get("/api/limits")
+async def limits():
+    return limits.dict()
 
 
 def update_limits(input_data):

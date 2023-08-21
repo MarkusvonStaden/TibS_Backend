@@ -40,14 +40,16 @@
                 <input type="text" placeholder="MIN" class="input" name="visibleLimitMin">
                 <input type="text" placeholder="MAX" class="input" name="visibleLimitMax">
             </div>
+            <div id="firmware">
+                <h2>Upload new Firmware</h2>
+                <form action="/upload_firmware/" method="post" enctype="multipart/form-data">
+                    <input type="file" id="file" name="file" accept=".bin" required>
+                    <input type="text" name="version" placeholder="Version" required>
+                    <button type="submit">Upload Firmware</button>
+                </form>
+            </div>
         </div>
         <br>
-        <h2>Upload new Firmware</h2>
-        <form action="/upload_firmware/" method="post" enctype="multipart/form-data">
-            <input type="file" id="file" name="file" accept=".bin" required>
-            <input type="text" name="version" placeholder="Version" required>
-            <button type="submit">Upload Firmware</button>
-        </form>
     </div>
     <script src="script.js"></script>
 </body>
