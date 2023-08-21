@@ -1,4 +1,4 @@
-# Getting started
+# TibS 🪴 Backend
 
 ## Prerequisites
 
